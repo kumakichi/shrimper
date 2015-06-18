@@ -1,0 +1,9 @@
+* About
+
+  This is the golang version of [[https://github.com/m31271n/shrimper][shrimper]] originally written by @m31271n
+
+  This tool can only retrive the low quality file, i.e., the file is 128kbps
+
+* Todo
+
+  process id3 info
